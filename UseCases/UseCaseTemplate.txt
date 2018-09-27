@@ -1,0 +1,14 @@
+Actors
+======
+-> User 
+
+Functions
+=========
+-> Upload thoughts (text)
+-> Upload images
+-> Share on social media (Facebook)
+-> Maintain timeline
+
+Future Functions
+================
+-> Store locations
